@@ -1,51 +1,33 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🌎🏫Modelos de sala de aula/estudo ecologicamente sustentáveis
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Aprender deve ser um processo prazeroso, significativo e enriquecedor. Um ambiente acolhedor, uma boa iluminação e temperatura ajuda na qualidade do aprendizado e oferece ponto focal para os alunos. 
+O propósito do projeto é criar instalações ecológicas para pequenos espaços de aprendizado (sua casa), médios espaços (escolas de cursos) grandes espaços (escolas regulares ou universidades).
+Levando em consideração às 17 metas para o desenvolvimento sustentável (ODS) da Organização das Nações Unidas, os seguintes projetos arquitetônicos terão uma configuração 
+para diminuir a emissão de carbono e integrar às práticas de ESG dentro das instalações.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+1️⃣ Openart
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Gerei prompts de diferentes categorias para cada espaço que gostaria de criar.
+
+O primeiro prompt foi: Crie uma ambiente de estudos individual que seja ecologicamente sustentável. No ambiente deverá conter computador, cadeira, mesa, uma boa iluminação natural, algumas plantas e circulação de ar.
+O segundo prompt foi: Crie uma sala de aula que seja ecologicamente sustentável. No ambiente deverá conter mesas, cadeiras, lousa, ferramentas de tecnologia, uma boa iluminação natural, algumas plantas e circulação de ar.
+O terceiro prompt foi: Crie uma sala de aula de uma universidade que seja ecologicamente sustentável. No ambiente deverá conter computadores, cadeiras, mesaa, ambientes integrados, uma boa iluminação natural, algumas plantas e circulação de ar.
+
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
+
+Prompt 1 -![openart-image_LBKDdAaM_1714261888660_raw](https://github.com/JailanaSouza/lab-natty-or-not/assets/162022563/32361a8c-9dea-4c4a-a20b-87c7d5fd2837)
+
+Prompt 2 - ![openart-image_30rrldJv_1714258637229_raw](https://github.com/JailanaSouza/lab-natty-or-not/assets/162022563/9331de08-a503-487b-9e41-b97dce8f6713)
+
+Prompt 3 - ![Sala de aula sustentável](https://github.com/JailanaSouza/lab-natty-or-not/assets/162022563/28099944-f411-43a2-b8e7-f0e3e5781fb2)
+
+
+
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
