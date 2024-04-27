@@ -30,4 +30,5 @@ Prompt 3 - ![Sala de aula sustentável](https://github.com/JailanaSouza/lab-natt
 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Observei que a IA se comporta com a designação semântica "ecologicamente sustentável", apontando resultados muito para o uso da cor verde, talvez por sua rede neural associar a cor verde ao ecossistema natural. 
+Muitos sites de geração de imagem se dizem gratuitos mas só depois que você faz o login, eles mostram que possui unicamente versão paga ou então com créditos grátis altamente restritos, ainda falta transparência e zelo com o usuário por parte das plataformas e da experiência dentro delas. 
